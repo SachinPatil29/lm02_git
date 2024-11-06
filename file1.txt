@@ -1,1 +1,2 @@
 1st line added to local master
+2nd line added to local b1
