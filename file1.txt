@@ -1,3 +1,4 @@
 1st line added to local master
 2nd line added to local b1
 3rd line added to local b1
+4th line added to local branch b1
